@@ -200,6 +200,7 @@
 关于这些方法资产本身，我另外整理了一份附录，专门记录我长期使用和沉淀的 `skills`、`agents`、工作流模板与协同规则。它们对我来说，不是工具清单，而是面对复杂项目时反复复用的判断结构、推进路径与交付规范。
 
 - [Methods, Skills & Agents](./METHODS_SKILLS_AND_AGENTS.md)
+- [Full Skills & Agents Inventory](./FULL_SKILLS_AND_AGENTS_INVENTORY.md)
 
 ## 从这些项目里沉淀下来的几条稳定判断
 

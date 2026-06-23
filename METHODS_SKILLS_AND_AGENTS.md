@@ -268,3 +268,4 @@
 如果需要查看不带解释的完整文件清单，也可以直接看这里：
 
 - [Full Skills & Agents Inventory](./FULL_SKILLS_AND_AGENTS_INVENTORY.md)
+- [Archived Original Files](./archives/skills-and-agents/)
